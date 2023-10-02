@@ -18,7 +18,7 @@ export default function Products({ productsData }) {
 
   async function handlePurchase(product) {
     try {
-      // Replace 'your-server-endpoint' with your actual server's endpoint.
+      // Post purchase data to server
       const response = await fetch("https://friends-merch-server.onrender.com/purchases", {
         method: "POST",
         headers: {
@@ -49,7 +49,7 @@ export default function Products({ productsData }) {
           <h1 className="font-bold text-2xl">MERCHANDISE</h1>
         </div>
         <input
-          className="border border-black rounded-md p-2 w-96 h-11"
+          className="border border-black rounded-md p-2 w-full md:w-96 h-11"
           type="text"
           onChange={handleInputChange}
           placeholder="Search Products"
