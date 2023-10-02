@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Note Book",
+      "image": "https://www.epicstuff.com/cdn/shop/products/71M_2B-LlvOlL._SL1500_1024x1024.jpg?v=1571785437",
+      "rating": 4.5,
+      "price": 80
+    },
+    {
+      "id": 2,
+      "name": "Friends Mug",
+      "image": "https://m.media-amazon.com/images/I/41OZLdml-BL.SS700.jpg",
+      "rating": 4.3,
+      "price": 80
+    },
+    {
+      "id": 3,
+      "name": "Cap",
+      "image": "https://m.media-amazon.com/images/I/51wh8Xb5y0L._UX679_.jpg",
+      "rating": 4.5,
+      "price": 19.99
+    },
+    {
+      "id": 4,
+      "name": "Pillow",
+      "image": "https://www.epicstuff.com/cdn/shop/products/51ENbGPEkVL._SL1000_9778ab21-0a1a-4f7f-9625-b3e984769b29_1024x1024.jpg?v=1599508313",
+      "rating": 3.5,
+      "price": 120
+    },
+    {
+      "id": 5,
+      "name": "Joey Clock",
+      "image": "https://www.epicstuff.com/cdn/shop/products/81qEobV34nL._SL1500_1024x1024.jpg?v=1571785390",
+      "rating": 4.2,
+      "price": 400
+    },
+    {
+      "id": 6,
+      "name": "Calender",
+      "image": "https://www.epicstuff.com/cdn/shop/products/Untitleddesign_31ae13bd-091f-4a4a-ad3e-8c3e5043998b_1024x1024.png?v=1639830638",
+      "rating": 3.5,
+      "price": 75
+    },
+    {
+      "id": 7,
+      "name": "Monica Frame",
+      "image": "https://www.epicstuff.com/cdn/shop/products/61lW6K-evyL._SL1500_7e8d83ad-1fda-4793-a8a9-e5e282766a87_1024x1024.jpg?v=1601942695",
+      "price": 19.99,
+      "rating":2.5
+    },
+    {
+      "id": 8,
+      "name": "T-Shirt",
+      "image": "https://www.epicstuff.com/cdn/shop/products/friends4_1_1024x1024.jpg?v=1659612512",
+      "rating": 4.5,
+      "price": 19.99
+    }
+  ]
+  
