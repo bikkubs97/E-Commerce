@@ -1,0 +1,1 @@
+This an e-commerce applicaiton for buying merchandise from TV show 'Friends'
