@@ -13,3 +13,7 @@ the application is live at :
 
 https://e-commerce-dbe5.vercel.app/
 
+Note : By default the API calls are made to the remote server, you may need to
+change the URLs to connect to local server if you wish to monitor the file changes.
+
+Due to the use of free web services, server responses may take longer.
